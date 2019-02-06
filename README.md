@@ -1,2 +1,2 @@
 # minecraft-web-inventory-checker
-inventory check on website in minecraft
+player's inventory check on website in minecraft
